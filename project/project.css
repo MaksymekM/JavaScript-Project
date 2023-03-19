@@ -1,0 +1,77 @@
+.userBox{
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.userDiv {
+    background-color: #f8ecd6;
+    border: 5px solid #5c9f59;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 80px;
+    align-items: center;
+}
+.btn {
+    margin: 5px;
+    width: 90%;
+    height: 50px;
+    font-size: 25px;
+}
+.detailsDiv {
+    background-color: #f8ecd6;
+    border: 5px solid #5c9f59;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    height: 700px;
+    font-size: 20px;
+    font-family: Calibri;
+    align-items: center;
+
+}
+.postDiv {
+    width: 200px;
+    margin: 5px;
+    border: 3px solid #5c9f59;
+
+}
+.postWrapper {
+    display: none;
+    flex-wrap: wrap;
+    width: 1100px;
+    height: 450px;
+}
+
+.boxPost {
+    background-color: #f8ecd6;
+    border: 5px solid #5c9f59;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1600px;
+    height: 1500px;
+    font-size: 20px;
+    font-family: Calibri;
+}
+.post {
+    margin: 5px;
+    width: 1500px;
+    border: 3px solid #5c9f59;
+}
+.wrapper {
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    height: 100px;
+}
+.cmnt {
+    width: 350px;
+    height: 350px;
+    border: 3px solid coral;
+    margin: 5px;
+}
